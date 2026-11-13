@@ -48,11 +48,14 @@ https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FasJFMM.png" group-title="Movies",Nile Drama
 http://185.9.2.18/chid_352/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/TmGdX5c.png" group-title="ROTANA",ROTANA CINAMA1
-https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/rotana/cinema_360p/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/iQOQVj6.png" group-title="youtube",Hassan's World Stories of the Messengers
 https://youtu.be/FeY-2-siCIk
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="KIDS",Spacetoon
 https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/TmGdX5c.png" group-title="ROTANA",ROTANA CINAMA1
+https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/rotana/cinema_360p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Y53dif8.png" group-title="ROTANA",ROTANA CINAMA 2
+https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/rotana/cinemamasr_480p/chunks.m3u8
