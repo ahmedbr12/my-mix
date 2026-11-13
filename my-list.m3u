@@ -6,13 +6,13 @@ https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 #EXTINF:-1 tvg-logo="https://imgur.com/gVYT8mX.png" group-title="Movies",Hallmark Mystery
 http://41.205.93.154/HALLMARK/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vkosGBC.png" group-title="Syria",Syria 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vkosGBC.png" group-title="SYRIA",Syria 2
 https://live.kwikmotion.com/syriatv02live/syriatv02.smil/syriatv02publish/syriatv02_source/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8FILgXT.jpeg" group-title="Syria",Al-Souriya TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8FILgXT.jpeg" group-title="SYRIA",Al-Souriya TV
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xPoycVY.png" group-title="Syria",Lana TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xPoycVY.png" group-title="SYRIA",Lana TV
 https://cdn.streamlane.tv/hls/ltv/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FjuVuXF.jpeg" group-title="SYRIA",Syria TV
