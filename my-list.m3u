@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/29af70d1-d3ba-4a16-bc4d-bd99e7e7def4/hallmark-movies-and-more_color.png" group-title="Movies",Hallmark Movies
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
 
-#EXTINF:-1 tvg-logo="https://images.metrological.com/epg/channels/hallmark-mystery.png" group-title="Movies",Hallmark Mystery
+#EXTINF:-1 tvg-logo="https://imgur.com/gVYT8mX.png" group-title="Movies",Hallmark Mystery
 http://41.205.93.154/HALLMARK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vkosGBC.png" group-title="Syria",Syria 2
