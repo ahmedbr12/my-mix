@@ -143,3 +143,18 @@ https://qatartv.akamaized.net/hls/live/20000612/qtvquran/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/14/da/fullhd_823bc2fe722ede75410492d57fd6c201208b4224.png" group-title="Quran",Holy Quran Radio
 https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/5lj6WOf.png" group-title="KIDS",Maraya Kids
+https://live.kwikmotion.com/smckidslive/tjkids1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/acuCGF8.png" group-title="KIDS",Roya Kids
+https://fast.kwikmotion.com/roya/kids/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="KIDS" group-title="https://imgur.com/l0agV1S.png",Atfal Wam Mawaheb
+https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/chunklist_w1631916268.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/WxLHBwu.png" group-title="KIDS",BabyFirst
+https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PVt8OPN.png" group-title="KIDS",MBC 3 
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
