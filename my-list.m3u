@@ -63,7 +63,7 @@ https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/rotana/ci
 #EXTINF:-1 tvg-logo="https://imgur.com/zACBmvP.png" group-title="ROTANA",Rotana Comedy
 https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/rotana/comedy_1080p/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pMMUvkt.png" group-title="ROTANA",Rotana Classical
+#EXTINF:-1 tvg-logo="https://imgur.com/00bNWGi.png" group-title="ROTANA",Rotana Classical
 https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/rotana/classical_480p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/YqKtBt6.png" group-title="ROTANA",Rotana Drama
@@ -77,3 +77,6 @@ https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/rotana/clip_480
 
 #EXTINF:-1 tvg-logo="https://imgur.com/G3IBoWm.png" group-title="ROTANA",Rotana Music
 https://rotana.hibridcdn.net/rotananet/music_net-7Y83PP5adWixDF93/rotana/music_480p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/9YqCWH9.png" group-title="ROTANA",Rotana Lbc
+https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/rotana/lbc_480p/chunks.m3u8
