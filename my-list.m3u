@@ -59,3 +59,21 @@ https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/rotana/cinema
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Y53dif8.png" group-title="ROTANA",ROTANA CINAMA 2
 https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/rotana/cinemamasr_480p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/zACBmvP.png" group-title="Rotana Comedy",Rotana Comedy
+https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/rotana/comedy_1080p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/00bNWGi.png" group-title="ROTANA",Rotana Classical
+https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/rotana/classical_480p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/YqKtBt6.png" group-title="ROTANA",Rotana Drama
+https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/rotana/drama_480p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/x7XpG9Z.png" group-title="ROTANA",Rotana Khaleejiya
+https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/rotana/khaleejiya_480p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Ng2KN7p.png" group-title="ROTANA",Rotana Clip
+https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/rotana/clip_480p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/G3IBoWm.png" group-title="ROTANA",Rotana Music
+https://rotana.hibridcdn.net/rotananet/music_net-7Y83PP5adWixDF93/rotana/music_480p/chunks.m3u8
