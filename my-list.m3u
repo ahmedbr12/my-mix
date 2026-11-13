@@ -1,16 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Movies",Hallmark Movies
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/29af70d1-d3ba-4a16-bc4d-bd99e7e7def4/hallmark-movies-and-more_color.png" group-title="Movies",Hallmark Movies
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
 
-#EXTINF:-1 group-title="Movies",Hallmark Mystery
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Hallmark_Mystery_2024.svg" group-title="Movies",Hallmark Mystery
 http://41.205.93.154/HALLMARK/index.m3u8
 
-#EXTINF:-1 group-title="Syria",Syria 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vkosGBC.png" group-title="Syria",Syria 2
 https://live.kwikmotion.com/syriatv02live/syriatv02.smil/syriatv02publish/syriatv02_source/chunks.m3u8
 
-#EXTINF:-1 group-title="Syria",Al-Souriya TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8FILgXT.jpeg" group-title="Syria",Al-Souriya TV
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8
 
-#EXTINF:-1 group-title="Syria",Lana TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xPoycVY.png" group-title="Syria",Lana TV
 https://cdn.streamlane.tv/hls/ltv/master.m3u8
