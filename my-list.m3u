@@ -116,3 +116,30 @@ https://rotana.hibridcdn.net/rotananet/music_net-7Y83PP5adWixDF93/rotana/music_4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/9YqCWH9.png" group-title="ROTANA",Rotana Lbc
 https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/rotana/lbc_480p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/pbqtikr.png" group-title="Quran",Sharjah Quran live
+https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpublish/shqurantv_source/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/MxZlOvc.png" group-title="Quran",Sharjah Radio Quran
+https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/bbAO1Px.png" group-title="Quran",Makkah Live
+http://m.live.net.sa:1935/live/quran/gmswf.m3u8
+
+#EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/92/fullhd_879e557011826f507a045b4e0b4c3b57ba93edae.png" group-title="Quran",Al Sunnah Al Nabawiyah
+http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/nUlZvSe.png" group-title="Quran",Iqraa Africa & Europe
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/HPVsIa4.png" group-title="Quran",Iqraa Arabic
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/HPVsIa4.png" group-title="Quran",Iqraa Quran
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.qmc.qa/img/LiveChannels/1ca67a44-9290-4b2a-8a16-d8c6e2260816.jpg" group-title="Quran",Qatar Quran  TV
+https://qatartv.akamaized.net/hls/live/20000612/qtvquran/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/14/da/fullhd_823bc2fe722ede75410492d57fd6c201208b4224.png" group-title="Quran",Holy Quran Radio
+https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
