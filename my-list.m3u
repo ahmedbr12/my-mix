@@ -318,27 +318,4 @@ https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png" group-title="General",MTV Lebanon
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/rBftT9x.png" group-title="General",Oman TV
-https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/b38wNPK.png" group-title="General",Oman TV Cultural
-https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/4B5FvmX.png" group-title="General",Palestine TV
-https://pbc.furrera.ps/palestinehd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/N5RB4sp.png" group-title="General",Qatar
-https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/9JSQglj.png" group-title="General",SBC
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Oz2bPOt.png" group-title="General",Sharjah TV
-https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/XUPAYAA.png" group-title="General",Sudan TV
-https://cdn-globecast.akamaized.net/live/eds/sudan_tv/hls_roku/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/AKa1X9d.png" group-title="General",Thikrayat TV
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/8cfa8fe0c96275735745b89c683b27e3/index.m3u8
 
